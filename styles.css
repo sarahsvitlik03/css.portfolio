@@ -1,4 +1,5 @@
 .topnav {
+  position: fixed;
   width: 100%;
   background-color: rgb(252, 252, 205);
   padding: 20px;
